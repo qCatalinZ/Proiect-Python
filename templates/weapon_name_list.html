@@ -1,0 +1,28 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{name.capitalize()}}</title>
+    <style>
+        a 
+        {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body style="background-color: #343541;">
+    <h1><span style="color: white;">{{name.capitalize()}} Page:</span></h1>
+    <ul>
+        {% for id, values in data.items() %}
+            <li style="font-size: 32px;">
+                <a href="{{ url_for('weapon_details', type=name, id=id) }}"><span style="color: #FFA200;">{{ id }}:</span><br>
+                <img style="max-width:128px" src= {{ values.image }} /></a>
+            </li>
+        {% endfor %}
+    </ul>
+    <p>‎</p>
+</body>
+</html>

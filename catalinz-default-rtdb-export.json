@@ -1,0 +1,488 @@
+{
+  "pistols": 
+  {
+    "Gub": 
+    {
+      "name": "Gub",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f10c6286cdf2a35f9d05_Gub%20(Pistol-BL2)-p-500.webp",
+      "element": "Corrosive",
+      "manufacture": "Bandit",
+      "drop_rate":"10%",
+      "about":"The Legendary Pistol Gub is manufactured by Bandit and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Shoots slow Projectiles.",
+      "how_to_farm": "In The Fridge kill the Named Enemy Laney White.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74b94c47b7466822e5aed_Gub%20(Pistol-BL2).webp"
+    },
+    "Unkempt Harold":
+    {
+      "name": "Unkempt Harold",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70f2bab4d787cc73d036b_Unkempt%20Harold%20(Pistol-BL2)-p-500.webp",
+      "element": "Explosion",
+      "manufacture": "Torgue",
+      "drop_rate":"10%",
+      "about":"The Legendary Pistol Unkempt Harold is manufactured by Torgue and comes from the Borderlands 2 Base Game",
+      "unique_ability":"For 3 (6) Ammo, the Unkempt Harold fires 1 (2) main bullet that quickly spawns 6 (12) extra bullets that fan out in a horizontal row. All bullets explode on impact, dealing 100% Explosive Damage on direct hits. The main explosion deals 100%, while the extra explosions deal 70% Explosive Grenade Damage in an area.",
+      "how_to_farm": "In Three Horns Divide kill the Named Enemy Savage Lee.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f79616c0357855684a18b7_Unkempt%20Harold%20(Pistol-BL2).webp"
+    },
+    "Hector's Paradise":
+    {
+      "name": "Hector's Paradise",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f1ade96542ec9bd5b0e6_Hector%27s%20Paradise%20(Pistol-BL2)-p-500.webp",
+      "element": "Shock",
+      "manufacture": "Dahl",
+      "drop_rate":"100%",
+      "about":"The Legendary Pistol Hector's Paradise is manufactured by DAHL and comes from the Borderlands 2 Fight for Sanctuary - DLC.",
+      "unique_ability":"Projectiles explode on impact and deal Splash Damage. Explosions deal 80% Weapon Damage as Splash Damage that is boosted by Grenade Damage.",
+      "how_to_farm": "In the Fight for Sanctuary DLC do the Named Quest Echoes of the Past.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74c2744de4b2c41fe222d_Hector%27s%20Paradise%20(Pistol-BL2).webp"
+    },
+    "Hornet":
+    {
+      "name": "Hornet",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f1ed132ead7b32cf70d9_Hornet%20(Pistol-BL2)-p-500.webp",
+      "element": "Corrosive",
+      "manufacture": "Dahl",
+      "drop_rate":"10%",
+      "about":"The Legendary Pistol Hornet is manufactured by DAHL and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Projectiles explode on impact and deal Splash Damage. Explosions deal 80% Weapon Damage as Splash Damage that is boosted by Grenade Damage.",
+      "how_to_farm": "In Windshear Waste kill the Named Enemy Knuckle Dragger.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74da212933ffaddae21d7_Hornet%20(Pistol-BL2).webp"
+    },
+    "Infinity":
+    {
+      "name": "Infinity",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f299fd89b3c4625dea7b_Infinity%20(Pistol-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock",
+      "manufacture": "Vladof",
+      "drop_rate":"10%",
+      "about":"The Legendary Pistol Infinity is manufactured by Vladof and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Infinity fires bullets in an infinity ∞ pattern and consumes no ammo.",
+      "how_to_farm": "In Three Horns Valley kill the Named Enemy Doc Mercy.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74e3904d4a4ba3edf4d4b_Infinity%20(Pistol-BL2).webp"
+    },
+    "Logan's Gun":
+    {
+      "name": "Logan's Gun",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f4473b4014c976079a57_Logan%27s%20Gun%20(Pistol-BL2)-p-500.webp",
+      "element": "Fire",
+      "manufacture": "Hyperion",
+      "drop_rate":"5%",
+      "about":"The Legendary Pistol Logan's Gun is manufactured by Hyperion and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Projectiles explode on impact then continue traveling. On impact with an surface there's a small explosion after a small delay. While using Absorption Shields: Projectiles of this Weapon will replenishes Rocket Launcher Ammo.",
+      "how_to_farm": "In End of the Line kill the Named Enemy Wilhelm.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7525357152580082e6e54_Logan%27s%20Gun%20(Pistol-BL2).webp"
+    },
+    "Maggie":
+    {
+      "name": "Maggie",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f4cbeddae6c98efe521c_Maggie%20(Pistol-BL2)-p-500.webp",
+      "element": "Knetic",
+      "manufacture": "Jakobs",
+      "drop_rate":"10%",
+      "about":"The Legendary Pistol Maggie is manufactured by Jakobs and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Maggie fires 6 Bullets at the cost of 1 Ammo.",
+      "how_to_farm": "In The Dust kill the Named Enemy Mick Zaford.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f752f3820360397997746d_Maggie%20(Pistol-BL2).webp"
+    },
+    "Gunerang":
+    {
+      "name": "Gunerang",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f112132ead7b32ce6266_Gunerang%20(Pistol-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Tediore",
+      "drop_rate":"10%",
+      "about":"The Legendary Pistol Gunerang is manufactured by Tediore and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Gunerang is thrown away with every Reload while a new clone digistructs in your hands. When thrown the Gunerang bounces of surfaces and enemies and explodes after 5s, dealing +50% [Element] Grenade Damage. After half its duration it begins homing in on you. The Reload Explosion's Damage is Card Damage × leftover Bullets × 1.5.",
+      "how_to_farm": "In The Fridge kill the Named Enemy Rakkman.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74b9a60f44a0b4b7c53bf_Gunerang%20(Pistol-BL2).webp"
+    }
+  },
+  "smgs":
+  {
+    "Baby Maker":
+    {
+      "name": "Baby Maker",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6e8893ba2cd66ef7430af_Baby%20Maker%20(SMG-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Tediore",
+      "drop_rate":"10%",
+      "about":"The Legendary SMG Baby Maker is manufactured by Tediore and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"When thrown the weapon will spawn 1-3 child grenades after the first Explosion. The weapon is thrown away with every Reload while a new clone digistructs in your hands.",
+      "how_to_farm": "In Tundra Express kill the Named Enemy Madame Von Bartlesby.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7420d9f2b8421b50ffa59_Baby%20Maker%20(SMG-BL2).webp"
+    },
+    "Bitch":
+    {
+      "name": "Bitch",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6e9666c8a92a7a5a5d0bc_Bitch%20(SMG-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Hyperion",
+      "drop_rate":"3.3%",
+      "about":"The Legendary SMG Bitch is manufactured by Hyperion and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Bitch has +75% Crit Damage (scale). Sustained fire improves accuracy and recoil.",
+      "how_to_farm": "In The Bunker kill the Named Enemy BNK-3R.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f742b8239a0a80c3a66a80_Bitch%20(SMG-BL2).webp"
+    },
+    "Emperor":
+    {
+      "name": "Emperor",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6ef45e1d4d95da26e4c0c_Emperor%20(SMG-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Dahl",
+      "drop_rate":"20%",
+      "about":"The Legendary SMG Emperor is manufactured by DAHL and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"While aiming down sight: 6-Round Burst fire. (7 with DAHL Stock)",
+      "how_to_farm": "In Southpaw S&P kill the Named Enemy Assasin Wot, Assasin Oney, Assasin Reeth or Assasin Rouf.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f747b3bc08317e5c965bc3_Emperor%20(SMG-BL2).webp"
+    },
+    "Hellfire":
+    {
+      "name": "Hellfire",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f1bf4b22d99d9440a7dc_Hellfire%20(SMG-BL2)-p-500.webp",
+      "element": "Fire",
+      "manufacture": "Maliwan",
+      "drop_rate":"10%",
+      "about":"The Legendary SMG Hellfire is manufactured by Maliwan and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Hellfire's projectiles explode on impact and deal Splash Damage. Explosions deal 50% Weapon Damage as Splash Damage that is boosted by Grenade Damage.",
+      "how_to_farm": "In Frostburn Canyon kill the Named Enemy Scorch.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74d74483aebb2e6995b79_Hellfire%20(SMG-BL2).webp"
+    },
+    "Slagga":
+    {
+      "name": "Slagga",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70baae96542ec9bf70704_Slagga%20(SMG-BL2)-p-500.webp",
+      "element": "Slag",
+      "manufacture": "Bandit",
+      "drop_rate":"10%",
+      "about":"The Legendary SMG Slagga is manufactured by Bandit and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Only Slag",
+      "how_to_farm": "In The Dust kill the Named Enemy Tector and Jimbo Hodunk.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7915c5fc18616b62132b2_Slagga%20(SMG-BL2).webp"
+    }
+  },
+  "assault_rifles":
+  {
+    "Hammer Buster":
+    {
+      "name": "Hammer Buster",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f145fd89b3c4625c5d17_Hammer%20Buster%20(AR-BL2)-p-500.webp",
+      "element": "Knetic",
+      "manufacture": "Jakobs",
+      "drop_rate":"10%",
+      "about":"The Legendary Assault Rifle Hammer Buster is manufactured by Jakobs and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Jakobs Assault Rifles have +30% Crit Damage (PreAdd).",
+      "how_to_farm": "In The Dust kill the Named Enemy McNally.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74bce60356c3fe583ff6c_Hammer%20Buster%20(AR-BL2).webp"
+    },
+    "KerBlaster":
+    {
+      "name": "KerBlaster",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f33d37dca985adfacb57_KerBlaster%20(AR-BL2)-p-500.webp",
+      "element": "Explosion",
+      "manufacture": "Torgue",
+      "drop_rate":"10%",
+      "about":"The Legendary Assault Rifle KerBlaster is manufactured by Torgue and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Projectiles explode on impact dealing pure Splash Damage and release a child grenade. Child Grenades deal Splash Damage and are boosted by Grenade Damage.",
+      "how_to_farm": "In Southern Shelf Bay kill the Named Enemy Midge-Mong.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7514d3712732fbb875a2e_KerBlaster%20(AR-BL2).webp"
+    },
+    "M2828 Thumpson":
+    {
+      "name": "M2828 Thumpson",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f145fd89b3c4625c5d17_Hammer%20Buster%20(AR-BL2)-p-500.webp",
+      "element": "Knetic",
+      "manufacture": "Jakobs",
+      "drop_rate":"6.8%",
+      "about":"The Legendary Assault Rifle M2828 Thumpson is manufactured by Jakobs and comes from the Borderlands 2 Fight for Sanctuary - DLC.",
+      "unique_ability":"Jakobs Assault Rifles have +30% Crit Damage (PreAdd).",
+      "how_to_farm": "In Dahl Abandon break the Grave that has a Helmet next to it.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f752c204d4a4ba3ee59bad_M2828%20Thumpson%20(AR-BL2).webp"
+    },
+    "Madhous!":
+    {
+      "name": "Madhous!",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f4b85ded3c5d99f71023_Madhous!%20(AR-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Bandit",
+      "drop_rate":"10%",
+      "about":"The Legendary Assault Rifle Madhous! is manufactured by Bandit and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Madhaus' projectiles randomly break out left-right-up-down. Projectiles split into 2 on impact and start bouncing. Projectiles become faster on each bounce.",
+      "how_to_farm": "In Lynchwood kill the Named Enemy Mad Dog.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f752dd325d4b587cab2d72_Madhous!%20(AR-BL2).webp"
+    },
+    "Ogre":
+    {
+      "name": "Ogre",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f705f9f7297e23a583edb8_Ogre%20(AR-BL2)-p-500.webp",
+      "element": "Explosion",
+      "manufacture": "Torgue",
+      "drop_rate":"21.5%",
+      "about":"The Legendary Assault Rifle Ogre is manufactured by Torgue and comes from the Borderlands 2 Assault on Dragon Keep - DLC.",
+      "unique_ability":"The Ogre fires bullets that explode on impact dealing Explosive Grenade Damage. Additionally, the Ogre has a 25% Chance to fire twice. Every 6s the Ogre has a 23% chance to Buff its wielder for 6s. The Buff persists when switching weapons and grants the following effects: +20% Damage +50% Fire Rate +100% Reload Speed Projectiles ricochet off surfaces. 50% Chance to fire twice (75% with base effect)",
+      "how_to_farm": "In Murderlin's Temple kill the Named Enemy Warlord Slog.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f78bcf05c1379d33c8240a_Ogre%20(AR-BL2).webp"
+    },
+    "Shredifier":
+    {
+      "name": "Shredifier",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70b5f5f44977b52a539d8_Shredifier%20(AR-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Vladof",
+      "drop_rate":"1.95%",
+      "about":"The Legendary Assault Rifle Shredifier is manufactured by Vladof and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Very quick wind up time.",
+      "how_to_farm": "In Washburne Refinery kill the Named Enemy Hyperius.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f790e8324a29afdc6a90c0_Shredifier%20(AR-BL2).webp"
+    },
+    "Veruc":
+    {
+      "name": "Veruc",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70f6381f2e89ddf0e5de3_Veruc%20(AR-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Dahl",
+      "drop_rate":"10%",
+      "about":"The Legendary Assault Rifle Veruc is manufactured by DAHL and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"While scoped, the Veruc shoots a horizontal 5-Bullet row for 2 Ammo. Sustained firing decreases distance between bullets.",
+      "how_to_farm": "In The Dust kill the Named Enemy Mobley.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7966162eb9e8b52e7918d_Veruc%20(AR-BL2).webp"
+    }
+  },
+  "shotguns":
+  {
+    "Conference Call":
+    {
+      "name": "Conference Call",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6ebc46c8a92a7a5a986dc_Conference%20Call%20(Shotgun-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Hyperion",
+      "drop_rate":"1.25%",
+      "about":"The Legendary Shotgun Conference Call is manufactured by Hyperion and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Conference Call shoots pellets in a straight trajectory, that each spawns 2 extra Pellets, 8 times at even intervals of 0.05s. When these extra pellets spawn, they shoot out left and right of the main projectile path. Two extra projectiles spawn at: 0.05 | 0.10 | 0.15 | 0.20 | 0.25 | 0.30 | 0.35 | 0.40s",
+      "how_to_farm": "In Vault of the Warrior kill the Named Enemy The Warrior.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f744a4c47b74668225c4e2_Conference%20Call%20(Shotgun-BL2).webp"
+    },
+    "Deliverance":
+    {
+      "name": "Deliverance",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6eced601687c8583c7f60_Deliverance%20(Shotgun-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Tediore",
+      "drop_rate":"10%",
+      "about":"The Legendary Shotgun Deliverance is manufactured by Tediore and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Continues to fire after being thrown and homes on targets. The weapon is thrown away with every Reload while a new clone digistructs in your hands.",
+      "how_to_farm": "In Wildlife Exploitation Preserve kill the Named Enemy Tumbaa.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f745dbc98d17367b61fe9f_Deliverance%20(Shotgun-BL2).webp"
+    },
+    "Flakker":
+    {
+      "name": "Flakker",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6efdfc74f2194a2ce5677_Flakker%20(Shotgun-BL2)-p-500.webp",
+      "element": "Explosion",
+      "manufacture": "Torgue",
+      "drop_rate":"1.25%",
+      "about":"The Legendary Shotgun Flakker is manufactured by Torgue and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"For 4 Ammo, the Flakker fires 3 (5) invisible projectiles that, after a short delay, each initiate a chain of 6 nearby explosions, all dealing Explosive Bullet Damage. Four explosions deal 100% Card Damage, two with a small and two with a medium radius, while two deal 120% Card Damage in a large radius.",
+      "how_to_farm": "In Vault of the Warrior kill the Named Enemy The Warrior.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74a495c90afd7814fc7d6_Flakker%20(Shotgun-BL2).webp"
+    },
+    "Overcompensator":
+    {
+      "name": "Overcompensator",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7068a6269b55f05ada957_Overcompensator%20(Shotgun-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Hyperion",
+      "drop_rate":"100%",
+      "about":"The Legendary Shotgun Overcompensator is manufactured by Hyperion and comes from the Borderlands 2 Fight for Sanctuary - DLC.",
+      "unique_ability":"Weapon talks while wielding. While shooting: Has a chance to refill the magazine with a random amount of bullets. Sustained fire improves accuracy and recoil.",
+      "how_to_farm": "In the Fight for Sanctuary DLC do the Named Quest Chief Executive Overlord.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f78c2355fa078c6f4fceaa_Overcompensator%20(Shotgun-BL2).webp"
+    },
+    "Sledge's Shotgun":
+    {
+      "name": "Sledge's Shotgun",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70bda601687c8586493df_Sledge%27s%20Shotgun%20(Shotgun-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Bandit",
+      "drop_rate":"10%",
+      "about":"The Legendary Shotgun Sledge's Shotgun is manufactured by Bandit and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Shoots a 2 round burst with delay between each burst.",
+      "how_to_farm": "In The Fridge kill the Named Enemy Smash-Head",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7917a400e167880720be6_Sledge%27s%20Shotgun%20(Shotgun-BL2).webp"
+    },
+    "Striker":
+    {
+      "name": "Striker",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70cb4fd252fcf914689c9_Striker%20(Shotgun-BL2)-p-500.webp",
+      "element": "Knetic",
+      "manufacture": "Jakobs",
+      "drop_rate":"10%",
+      "about":"The Legendary Shotgun Striker is manufactured by Jakobs and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Striker has +50% Crit Damage (Scale). Jakobs Shotguns have +30% Crit Damage (PreAdd).",
+      "how_to_farm": "In Highlands OutWash kill the Named Enemy Old Slappy.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f79294a1c9f44c7cc506b0_Striker%20(Shotgun-BL2).webp"
+    }
+  },
+  "sniper_rifles":
+  {
+    "Amigo Sincero":
+    {
+      "name": "Amigo Sincero",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6e7fd842f02881f81bd30_Amigo%20Sincero%20(Sniper-BL2)-p-500.webp",
+      "element": "Knetic",
+      "manufacture": "Jakobs",
+      "drop_rate":"100%",
+      "about":"The Legendary Sniper Amigo Sincero is manufactured by Jakobs and comes from the Borderlands 2 Fight for Sanctuary - DLC.",
+      "unique_ability":"Damage penetrates shields. Jakobs Snipers have +160% Crit Damage (scale).",
+      "how_to_farm": "In the Fight for Sanctuary DLC do the Named Quest BFFFs.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f741a2f64171c5973ebfb8_Amigo%20Sincero%20(Sniper-BL2).webp"
+    },
+    "Invader":
+    {
+      "name": "Invader",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f2c42fc665062174e58b_Invader%20(Sniper-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Hyperion",
+      "drop_rate":"3.3%",
+      "about":"The Legendary Sniper Invader is manufactured by Hyperion and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Invader fires bullets in a Semi-Auto firing mode. While aiming the Invader fires bullets in a 5-Round burst with a +700% Fire Rate increase. Sustained fire improves accuracy and recoil.",
+      "how_to_farm": "In Arid Nexus Badlands kill the Named Enemy Saturn.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74e64acadb48cde65a4c2_Invader%20(Sniper-BL2).webp"
+    },
+    "Longbow":
+    {
+      "name": "Longbow",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f45b2f12c55c124df695_Longbow%20(Sniper-BL2)-p-500.webp",
+      "element": "Fire",
+      "manufacture": "Hyperion",
+      "drop_rate":"6.25%",
+      "about":"The Legendary Sniper Longbow is manufactured by Hyperion and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Longbow has +50% Crit Damage (scale). Fires a slow Minecraft Arrow in a slightly arching trajectory. Sustained fire improves accuracy and recoil.",
+      "how_to_farm": "In Caustic Caverns kill the Named Enemy Badass Creeper.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f752682e425f6d78a68910_Longbow%20(Sniper-BL2).webp"
+    },
+    "Lyuda":
+    {
+      "name": "Lyuda",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6f49e24ff37854050e6f7_Lyuda%20(Sniper-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Vladof",
+      "drop_rate":"10%",
+      "about":"The Legendary Sniper Lyuda is manufactured by Vladof and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Lyuda has +25% Crit Damage (scale). Initial Projectile splits into 3 Projectiles after 10ms. Additional Projectiles deals 100% of Main Projectile damage",
+      "how_to_farm": "In The Dust kill the Named Enemy Gettle.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f752b554e25607b683925a_Lyuda%20(Sniper-BL2).webp"
+    },
+    "Pitchfork":
+    {
+      "name": "Pitchfork",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7074a5c57399908799178_Pitchfork%20(Sniper-BL2)-p-500.webp",
+      "element": "Knetic, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Dahl",
+      "drop_rate":"2.86%",
+      "about":"The Legendary Sniper Pitchfork is manufactured by DAHL and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Shots a row of 5 Bullets. While aiming down sight: 4-Round Burst fire. (5 with DAHL Stock)",
+      "how_to_farm": "In Terramorphous Peak kill the Named Enemy Terramorphous.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f78cb871b7bb5c61d62d5c_Pitchfork%20(Sniper-BL2).webp"
+    },
+    "Skullmasher":
+    {
+      "name": "Skullmasher",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70b97fd252fcf9144e8cc_Skullmasher%20(Sniper-BL2)-p-500.webp",
+      "element": "Knetic",
+      "manufacture": "Jakobs",
+      "drop_rate":"5%",
+      "about":"The Legendary Sniper Skullmasher is manufactured by Jakobs and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Shoots 5 Projectiles in a narrow spread. Jakobs Snipers have +160% Crit Damage (scale).",
+      "how_to_farm": "In Wildlife Exploitation Preserve kill the Named Enemy Son of Mothrakk.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f79144e512c23d96199374_Skullmasher%20(Sniper-BL2).webp"
+    },
+    "Volcano":
+    {
+      "name": "Volcano",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f70f9e24ff378540726107_Volcano%20(Sniper-BL2)-p-500.webp",
+      "element": "Fire",
+      "manufacture": "Maliwan",
+      "drop_rate":"1.25%",
+      "about":"The Legendary Sniper Volcano is manufactured by Maliwan and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Volcano shoots bullets that explode on impact, dealing Fire Grenade Damage.",
+      "how_to_farm": "In Vault of the Warrior kill the Named Enemy The Warrior.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7969cc0357855684a9871_Volcano%20(Sniper-BL2).webp"
+    }
+  },
+  "rocket_launchers":
+  {
+    "Badaboom":
+    {
+      "name": "Badaboom",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6e8a2693e1b4d008d2706_Badaboom%20(Launcher-BL2)-p-500.webp",
+      "element": "Explosion, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Bandit",
+      "drop_rate":"5%",
+      "about":"The Legendary Launcher Badaboom is manufactured by Bandit and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Shoots 6 Rockets at the cost of 1 ammo. A low level Badaboom can be used to Rocket Jump.",
+      "how_to_farm": "In Eridium Blight kill the Named Enemy King Mong.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f74227f100bfb0c41ef552_Badaboom%20(Launcher-BL2).webp"
+    },
+    "Bunny":
+    {
+      "name": "Bunny",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f6eaff2c1bd2cd774750e0_Bunny%20(Launcher-BL2)-p-500.webp",
+      "element": "Explosion, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Tediore",
+      "drop_rate":"5%",
+      "about":"The Legendary Launcher Bunny is manufactured by Tediore and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Bunny fires elemental Rockets in a straight trajectory that explodes on impact, dealing [Element] Grenade Damage. The Bunny is thrown away with every Reload while a new clone digistructs in your hands. When thrown the Bunny hops around randomly and explodes after 5s or on enemy impact, dealing Explosive Grenade Damage. On each hop the Bunny has a 44% Chance to drop a grenade that explodes after 1s, dealing 80% Explosive Grenade Damage. The Reload Explosion's Damage is Card Damage × leftover Bullets. The dropped Grenades' Damage is Card Damage × leftover Bullets × 0.8.",
+      "how_to_farm": "In any map kill the Named Enemy Chubbies or Tubbies. Chubbies or Tubbies enemy spawn randomly",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f743dfb5514d39435d51f9_Bunny%20(Launcher-BL2).webp"
+    },
+    "Mongol":
+    {
+      "name": "Mongol",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f704e70aa87c3d8ee52958_Mongol%20(Launcher-BL2)-p-500.webp",
+      "element": "Explosion, Corrosive, Fire, Shock, Slag",
+      "manufacture": "Vladof",
+      "drop_rate":"5%",
+      "about":"The Legendary Launcher Mongol is manufactured by Vladof and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"For 2 Ammo the Mongol launches a Rocket that explode on impact, dealing [weapon element] Launcher Damage. The main Rocket continuously releases smaller rockets into random directions along its flight path. The smaller rockets have an arching trajectory and explode on impact, dealing 60% Explosive Launcher Damage.",
+      "how_to_farm": "In Lynchwood kill the Named Enemy Dukino's Mom.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f75aee8270763f86d75776_Mongol%20(Launcher-BL2).webp"
+    },
+    "Norfleet":
+    {
+      "name": "Norfleet",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f7059bab4d787cc730c949_Norfleet%20(Launcher-BL2)-p-500.webp",
+      "element": "Corrosive, Fire, Shock, Slag",
+      "manufacture": "Maliwan",
+      "drop_rate":"1.67%",
+      "about":"The Legendary Launcher Norfleet is manufactured by Maliwan and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"The Norfleet fires 3 Plasma Projectiles that explode on impact dealing elemental Rocket Damage. After the initial explosion, the Plasma Projectiles deal an extra 50% elemental Rocket Damage to enemies in a radius 4-times the size of the initial explosion.",
+      "how_to_farm": "In Washburne Refinery kill the Named Enemy Hyperius.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f78b8670512b888047fabb_Norfleet%20(Launcher-BL2).webp"
+    },
+    "Nukem":
+    {
+      "name": "Nukem",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f705a8309acba2b5c778e4_Nukem%20(Launcher-BL2)-p-500.webp",
+      "element": "Explosion",
+      "manufacture": "Torgue",
+      "drop_rate":"10%",
+      "about":"The Legendary Launcher Nukem is manufactured by Torgue and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Fires a Projectile in an arching trajectory that explodes in a mushroom cloud.",
+      "how_to_farm": "In The Dust kill the Named Enemy Black Queen.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f78b94bdbef7009ac2a1e5_Nukem%20(Launcher-BL2).webp"
+    },
+    "Pyrophobia":
+    {
+      "name": "Pyrophobia",
+      "image": "https://assets-global.website-files.com/5ff36780a1084987868ce198/64f708769162d0871c3e92b0_Pyrophobia%20(Launcher-BL2)-p-500.webp",
+      "element": "Fire",
+      "manufacture": "Maliwan",
+      "drop_rate":"10%",
+      "about":"The Legendary Launcher Pyrophobia is manufactured by Maliwan and comes from the Borderlands 2 Base Game.",
+      "unique_ability":"Projectile continuously has fire bursts while flying.",
+      "how_to_farm": "In Frostburn Canyon kill the Named Enemy Incinerator Clayton.",
+      "item_card":"https://assets-global.website-files.com/5ff36780a1084987868ce198/64f78d451a96e3e207c25160_Pyrophobia%20(Launcher-BL2).webp"
+    }
+  }
+}
